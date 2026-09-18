@@ -1,0 +1,5 @@
+* export-ignore
+.gitattributes export-ignore
+.venv/ export-ignore
+__pycache__/ export-ignore
+*.pyc export-ignore
