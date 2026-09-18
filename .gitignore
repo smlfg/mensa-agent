@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/
+.codex/
+
+# Personal planning notes — never public
+idea
+plan
+konkret
+
+# Local state
+.env
+.env.local
